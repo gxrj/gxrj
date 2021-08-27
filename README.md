@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div style="display:inline; float: left;">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxrj&langs_count=8)](https://github.com/gxrj/github-readme-stats)
 
-  [![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gxrj)](https://github.com/gxrj/github-readme-stats)
+
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxrj&theme=dracula&layout=compact)](https://github.com/gxrj/github-readme-stats)
+
+
+[![stats](https://github-readme-stats.vercel.app/api?username=gxrj&show_icons=true&theme=dracula)](https://github.com/gxrj/github-readme-stats)
+
+
   
-</div>
