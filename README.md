@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxrj&theme=dracula&layout=compact)](https://github.com/gxrj/github-readme-stats)
-
-
-[![stats](https://github-readme-stats.vercel.app/api?username=gxrj&show_icons=true&theme=dracula)](https://github.com/gxrj/github-readme-stats)
+[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxrj&theme=dracula&layout=compact)](https://github.com/gxrj/github-readme-stats) [![stats](https://github-readme-stats.vercel.app/api?username=gxrj&show_icons=true&theme=dracula)](https://github.com/gxrj/github-readme-stats)
 
 
   
