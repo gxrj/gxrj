@@ -1,5 +1,4 @@
-### Hi there 👋
-### I'm a computer science enthusiast 🖥️
+### Hi there 👋!! I'm a computer science enthusiast 🖥️
 
 <!--
 **gxrj/gxrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+ <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gxrj&theme=dracula&layout=compact" height="180px">
+ <img src ="https://github-readme-stats.vercel.app/api?username=gxrj&show_icons=true&theme=dracula" height="180px">
 
-
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxrj&theme=dracula&layout=compact)](https://github.com/gxrj/github-readme-stats) [![stats](https://github-readme-stats.vercel.app/api?username=gxrj&show_icons=true&theme=dracula)](https://github.com/gxrj/github-readme-stats)
 
 
   
