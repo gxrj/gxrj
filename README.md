@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <div>
  <a href="https://github.com/gxrj">
     <tr>
-     <td>
+     <td width="380px">
       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gxrj&theme=dracula&layout=compact" height="180px">
      </td>
-     <td>
+     <td  width="470px">
       <img src ="https://github-readme-stats.vercel.app/api?username=gxrj&show_icons=true&theme=dracula" height="180px">
      </td>
     </tr>
