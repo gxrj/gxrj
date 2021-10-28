@@ -16,14 +16,8 @@ Here are some ideas to get you started:
 -->
 <div>
  <a href="https://github.com/gxrj">
-    <tr>
-     <td width="330px">
-      <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gxrj&theme=dracula&layout=compact" height="180px">
-     </td>
-     <td  width="420px">
-      <img src ="https://github-readme-stats.vercel.app/api?username=gxrj&show_icons=true&theme=dracula" height="180px">
-     </td>
-    </tr>
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gxrj&theme=dracula&layout=compact" width="330px" height="180px">  
+  <img src ="https://github-readme-stats.vercel.app/api?username=gxrj&show_icons=true&theme=dracula" width="420px" height="180px">
  </a>
 </div>
   
