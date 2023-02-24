@@ -27,13 +27,13 @@ Here are some ideas to get you started:
   <img height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
  </a>
  <a href="https://www.opengl.org/">
-  <img height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg"/>
+  <img height="90" width="90" src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg"/>
  </a>
  <a href="https://spring.io/">
   <img height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"/>
  </a>
  <a href="https://nuxt.com/">
-  <img height="80" width="90"src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg"/>
+  <img height="90" width="90"src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg"/>
  </a>
 </div> 
   
