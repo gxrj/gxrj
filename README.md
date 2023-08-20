@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  </a>
 </div>
 
-### Some tools that i'm "flirting with":
+### Some tools/specifications that draws my attention the most (at the moment):
 
 <a href="https://dev.java/" title="Java">
  <img height="70" width="80" src="./icons/java.svg"/>
