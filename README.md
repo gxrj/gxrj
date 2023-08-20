@@ -20,25 +20,25 @@ Here are some ideas to get you started:
 </div>
 
 ### Some tools that i'm "flirting with":
-<div style="display:inline-block">
- <a href="https://dev.java/" title="Java">
-  <img height="70" width="80" src="./icons/java.svg"/>
- </a>
- <a href="https://www.opengl.org/" title="OpenGL">
-  <img height="90" width="90" src="./icons/opengl.svg"/>
- </a>
-  <a href="https://www.lwjgl.org/" title="LWJGL 3">
-  <img height="90" width="50" src="./icons/lwjgl.svg"/>
- </a>
- <a href="https://spring.io/" title="Spring ecosystem">
-  <img height="70" width="80" src="./icons/spring.svg"/>
- </a>
-  <a href="https://start.jakarta.ee/" title="Jakarta EE">
-  <img height="90" width="90"src="./icons/jakarta_ee.svg"/>
- </a>
+
+<a href="https://dev.java/" title="Java">
+ <img height="70" width="80" src="./icons/java.svg"/>
+</a>
+<a href="https://www.opengl.org/" title="OpenGL">
+ <img height="90" width="90" src="./icons/opengl.svg"/>
+</a>
+ <a href="https://www.lwjgl.org/" title="LWJGL 3">
+ <img height="90" width="50" src="./icons/lwjgl.svg"/>
+</a>
+<a href="https://spring.io/" title="Spring ecosystem">
+ <img height="70" width="80" src="./icons/spring.svg"/>
+</a>
+<a href="https://start.jakarta.ee/" title="Jakarta EE">
+ <img height="90" width="90"src="./icons/jakarta_ee.svg"/>
+</a>
 </div> 
- <a href="https://nuxt.com/" title="NuxtJS">
-  <img height="90" width="90"src="./icons/nuxtjs.svg"/>
- </a>
-</div> 
+<a href="https://nuxt.com/" title="NuxtJS">
+ <img height="90" width="90"src="./icons/nuxtjs.svg"/>
+</a>
+
   
