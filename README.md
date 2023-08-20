@@ -27,7 +27,10 @@ Here are some ideas to get you started:
 <a href="https://www.opengl.org/" title="OpenGL">
  <img height="90" width="90" src="./icons/opengl.svg"/>
 </a>
- <a href="https://www.lwjgl.org/" title="LWJGL 3">
+<!--a href="https://libgdx.com/" title="libGDX">
+ <img height="20" width="90" src="./icons/libGDX.svg"/> <!-- to do: fix image dimensions-->
+</a-->
+<a href="https://www.lwjgl.org/" title="LWJGL 3">
  <img height="90" width="50" src="./icons/lwjgl.svg"/>
 </a>
 <a href="https://spring.io/" title="Spring ecosystem">
@@ -36,7 +39,6 @@ Here are some ideas to get you started:
 <a href="https://start.jakarta.ee/" title="Jakarta EE">
  <img height="90" width="90"src="./icons/jakarta_ee.svg"/>
 </a>
-</div> 
 <a href="https://nuxt.com/" title="NuxtJS">
  <img height="90" width="90"src="./icons/nuxtjs.svg"/>
 </a>
