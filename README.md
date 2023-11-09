@@ -42,8 +42,3 @@ Here are some ideas to get you started:
 <a href="https://start.jakarta.ee/" title="Jakarta EE">
  <img height="90" width="90"src="./icons/jakarta_ee.svg"/>
 </a>
-<a href="https://nuxt.com/" title="NuxtJS">
- <img height="90" width="90"src="./icons/nuxtjs.svg"/>
-</a>
-
-  
