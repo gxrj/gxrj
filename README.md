@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 <a href="https://spring.io/" title="Spring ecosystem">
  <img height="70" width="80" src="./icons/spring.svg"/>
 </a>
+<a href="https://micronaut.io/" title="Micronaut">
+ <img height="90" width="90"src="./icons/micronaut.svg"/>
+</a>
 <a href="https://start.jakarta.ee/" title="Jakarta EE">
  <img height="90" width="90"src="./icons/jakarta_ee.svg"/>
 </a>
