@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Some tools/specifications that draws my attention the most (at the moment):
 
 <a href="https://dev.java/" title="Java">
- <img height="70" width="80" src="./icons/java.svg"/>
+ <img height="90" width="80" src="./icons/java.svg"/>
 </a>
 <a href="https://www.opengl.org/" title="OpenGL">
  <img height="90" width="90" src="./icons/opengl.svg"/>
