@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.opengl.org/" title="OpenGL">
  <img height="90" width="90" src="./icons/opengl.svg"/>
-</a>
-<!--a href="https://libgdx.com/" title="libGDX">
- <img height="20" width="90" src="./icons/libGDX.svg"/> <!-- to do: fix image dimensions-->
-</a-->
+</a>&nbsp;
+<a href="https://libgdx.com/" title="libGDX">
+ <img height="90" width="90" src="./icons/libGDX.svg"/> 
+</a>&nbsp;
 <a href="https://www.lwjgl.org/" title="LWJGL 3">
  <img height="90" width="50" src="./icons/lwjgl.svg"/>
 </a>
@@ -41,4 +41,10 @@ Here are some ideas to get you started:
 </a>
 <a href="https://start.jakarta.ee/" title="Jakarta EE">
  <img height="90" width="90"src="./icons/jakarta_ee.svg"/>
+</a>
+<a href="https://nativescript.org/" title="Nativescript">
+ <img height="90" width="90" src="./icons/nativescript.svg"/>
+</a>
+<a href="https://haxe.org/" title="Haxe">
+ <img height="90" width="90"src="./icons/haxe-original.svg"/>
 </a>

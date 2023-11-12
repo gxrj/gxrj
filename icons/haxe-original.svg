@@ -1,0 +1,22 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+	<title>haxe-original-svg</title>
+	<style>
+		.s0 { fill: #f6b214 } 
+		.s1 { fill: #f17321 } 
+		.s2 { fill: #ef5e21 } 
+		.s3 { fill: #ea8220 } 
+		.s4 { fill: #f8ef23 } 
+		.s5 { fill: #f8c713 } 
+		.s6 { fill: #ec4822 } 
+	</style>
+	<path id="Layer" class="s0" d="m79.7 128l48.4-48.4-64.1-15.6z"/>
+	<path id="Layer" class="s1" d="m128 79.7l48.4 48.4 15.6-64.1z"/>
+	<path id="Layer" class="s2" d="m176.3 128l-48.4 48.4 64.1 15.6z"/>
+	<path id="Layer" class="s0" d="m128 176.3l-48.4-48.4-15.6 64.1z"/>
+	<path id="Layer" class="s3" d="m79.6 127.9l48.4-48.2 48.3 48.3-48.3 48.3z"/>
+	<path id="Layer" fill-rule="evenodd" class="s4" d="m64 64v32l15.6 31.9zm15.6 63.9l-15.6 32.1v32z"/>
+	<path id="Layer" class="s5" d="m64 64h32l32 15.7zm128 0l-64 15.7 32-15.7z"/>
+	<path id="Layer" fill-rule="evenodd" class="s6" d="m176.3 128l15.7-64v32zm0 0l15.7 32v32z"/>
+	<path id="Layer" class="s2" d="m64 192l64-15.7-32 15.7z"/>
+	<path id="Layer" class="s3" d="m192 192h-32l-32-15.7z"/>
+</svg>
