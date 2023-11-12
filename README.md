@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <a href="https://www.opengl.org/" title="OpenGL">
  <img height="90" width="90" src="./icons/opengl.svg"/>
 </a>&nbsp;
-<a href="https://libgdx.com/" title="libGDX">
- <img height="90" width="90" src="./icons/libGDX.svg"/> 
-</a>&nbsp;
 <a href="https://www.lwjgl.org/" title="LWJGL 3">
  <img height="90" width="50" src="./icons/lwjgl.svg"/>
+</a>&nbsp;
+<a href="https://libgdx.com/" title="libGDX">
+ <img height="90" width="90" src="./icons/libGDX.svg"/> 
 </a>
 <a href="https://spring.io/" title="Spring ecosystem">
  <img height="70" width="80" src="./icons/spring.svg"/>
