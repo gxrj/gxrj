@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 <a href="https://start.jakarta.ee/" title="Jakarta EE">
  <img height="90" width="90"src="./icons/jakarta_ee.svg"/>
 </a>
-<a href="https://nativescript.org/" title="Nativescript">
- <img height="90" width="90" src="./icons/nativescript.svg"/>
+<a href="https://sparkjava.com/" title="Spark Framework">
+ <img height="90" width="90" src="./icons/spark-java.svg"/>
 </a>
 <a href="https://haxe.org/" title="Haxe">
  <img height="90" width="90"src="./icons/haxe-original.svg"/>
