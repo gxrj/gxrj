@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.opengl.org/" title="OpenGL">
  <img height="90" width="90" src="./icons/opengl.svg"/>
+</a>
+<a href="https://webgpufundamentals.org/" title="WebGPU">
+ <img height="90" width="90"src="./icons/webgpu-icon.svg"/>
 </a>&nbsp;
 <a href="https://www.lwjgl.org/" title="LWJGL 3">
  <img height="90" width="50" src="./icons/lwjgl.svg"/>
@@ -44,7 +47,4 @@ Here are some ideas to get you started:
 </a>
 <a href="https://sparkjava.com/" title="Spark Framework">
  <img height="90" width="90" src="./icons/spark-java.svg"/>
-</a>
-<a href="https://haxe.org/" title="Haxe">
- <img height="90" width="90"src="./icons/haxe-original.svg"/>
 </a>
